@@ -1,0 +1,17 @@
+ÿ×This program reads the license table from dpcdll.dll
+This table decides how the Windows Product Activation
+'reacts' to your ProductID:
+55375-016-7867894-22084
+xxxxx-BBB-xxxxxxx-DDxxx
+
+Use the CDKey Tool to extract a ProductID.
+
+The '-DD'-part is the ID of the signature that 
+PIDgen.dll used to successfully verify your 
+CDKey
+
+Note:	For cooperated also oembios.dat 
+("TYPE=volumen") and secupd.dat
+("MS-5.1") must match
+
+<CW2K> <http://Antiwpa.cjb.net>

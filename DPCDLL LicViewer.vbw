@@ -1,0 +1,9 @@
+BigNumRoutines = 0, 0, 0, 0, C
+FileStream = 0, 0, 0, 0, C
+Dialog = 0, 0, 0, 0, C, 44, 58, 695, 366, C
+Helper = 0, 0, 0, 0, C
+Registry = 0, 0, 0, 0, C
+modErrorHandling = 0, 0, 0, 0, C
+Dpc_dll = 0, 0, 0, 0, C
+StringReader = 0, 0, 0, 0, C
+BigNum = 0, 0, 0, 0, C, 22, 29, 673, 337, C
